@@ -1,0 +1,298 @@
+[
+  {
+    "site": {
+      "company_name": "Lokavant",
+      "description": "Creating clinical trial intelligence solutions powered by big data and data science, helping identifying and solving risks before they happen, keeping clinical studies on time and on budget.",
+      "website": "https://www.lokavant.com",
+      "location": "New York, New York, USA",
+      "remote": true,
+      "image": {
+        "small": "",
+        "medium": "",
+        "large": ""
+      },
+      "projects": [
+        {
+          "project_name": "Oversight",
+          "period": ["2020-04-13"],
+          "description": [
+            "I'm taking part in the design & development of a single-page application (SPA) that shows thousands of rows of data in a way that is easy-to-digest for end users using React and TypeScript, handling complex UI states with Mobx and Context API and using Recharts to build comprehensive data visualizations."
+          ],
+          "technologies": [
+            "JavaScript",
+            "React",
+            "TypeScript",
+            "Mobx",
+            "React Hooks",
+            "Context API",
+            "Evergreen UI",
+            "Tailwind",
+            "Recharts"
+          ]
+        },
+        {
+          "project_name": "Insight",
+          "period": ["2021-01-01"],
+          "description": [
+            "I'm taking part in the design & development of a single-page application (SPA) that I created from scratch that shows distributed statistics for key risk indicators related to clinical trials. Developed with React and TypeScript, using Context API and no external libraries to keep state management simple, and using D3.js and Visx to build distribution probability visualizations."
+          ],
+          "technologies": [
+            "JavaScript",
+            "React",
+            "TypeScript",
+            "React Hooks",
+            "Context API",
+            "Evergreen UI",
+            "Tailwind",
+            "Recharts",
+            "D3.js",
+            "visx",
+            "Node.js",
+            "Express",
+            "AWS Cognito"
+          ]
+        },
+        {
+          "project_name": "Trial Intelligence Platform",
+          "period": ["2022-03-01"],
+          "description": [
+            "I'm having an active role in the design and development of a JSON-based render platform created using React to produce single-page applications (SPA) on demand, creating highly-configurable and meticulously crafted UI components like tables, filters and visualization charts."
+          ],
+          "technologies": [
+            "JavaScript",
+            "React",
+            "TypeScript",
+            "React Hooks",
+            "Context API",
+            "Tailwind",
+            "D3.js",
+            "visx",
+            "Node.js",
+            "Express",
+            "AWS Cognito"
+          ]
+        }
+      ]
+    },
+    "consultant": {
+      "company_name": "BairesDev",
+      "website": "https://www.bairesdev.com",
+      "location": "Buenos Aires, Argentina",
+      "image": {
+        "small": "",
+        "medium": "",
+        "large": ""
+      }
+    }
+  },
+  {
+    "site": {
+      "company_name": "IQVIA",
+      "description": "Creating clinical trial intelligence solutions powered by big data and data science, helping identifying and solving risks before they happen, keeping clinical studies on time and on budget.",
+      "website": "https://www.iqvia.com",
+      "location": "New York, New York, USA",
+      "remote": true,
+      "image": {
+        "small": "",
+        "medium": "",
+        "large": ""
+      },
+      "projects": [
+        {
+          "project_name": "HDSC",
+          "period": ["2019-10-28", "2020-04-12"],
+          "technologies": [
+            "JavaScript",
+            "React",
+            "React Hooks",
+            "Redux",
+            "JSS",
+            "Node.js",
+            "Express"
+          ]
+        }
+      ]
+    },
+    "consultant": {
+      "company_name": "BairesDev",
+      "website": "https://www.bairesdev.com",
+      "location": "Buenos Aires, Argentina",
+      "image": {
+        "small": "",
+        "medium": "",
+        "large": ""
+      }
+    }
+  },
+  {
+    "site": {
+      "company_name": "Materialize Labs",
+      "description": "Web design & development studio focused on high-quality rapid feature delivery.",
+      "website": "https://www.materializelabs.com",
+      "location": "Los Angeles, California, USA",
+      "remote": true,
+      "image": {
+        "small": "",
+        "medium": "",
+        "large": ""
+      },
+      "projects": [
+        {
+          "project_name": "Dendri",
+          "period": ["2019-06-03", "2019-10-24"],
+          "technologies": [
+            "PHP",
+            "Laravel",
+            "GraphQL",
+            "JavaScript",
+            "React",
+            "Apollo",
+            "MySQL",
+            "Elasticsearch",
+            "Redis",
+            "Docker"
+          ]
+        },
+        {
+          "project_name": "Dendri DevOps",
+          "period": ["2020-01-01", "2021-01-31"],
+          "technologies": ["Docker", "Terraform", "Kubernetes"]
+        }
+      ]
+    },
+    "consultant": {
+      "company_name": "Simplex Software",
+      "website": "https://www.simplexsf.com",
+      "location": "Buenos Aires, Argentina",
+      "image": {
+        "small": "",
+        "medium": "",
+        "large": ""
+      }
+    }
+  },
+  {
+    "site": {
+      "company_name": "Global Hitss Cono Sur",
+      "description": "Video on-demand streaming platform in Latin America, direct competitor of Fortune-500 streaming platforms present in the region.",
+      "website": "https://www.globalhitssconosur.com",
+      "location": "Buenos Aires, Argentina",
+      "image": {
+        "small": "",
+        "medium": "",
+        "large": ""
+      },
+      "projects": [
+        {
+          "project_name": "Claro video - Users microservice",
+          "period": ["2018-02-22", "2019-05-31"],
+          "technologies": ["PHP", "Slim", "Phalcon", "Oracle DB", "Cassandra"]
+        },
+        {
+          "project_name": "Migration of user sessions among Redis server instances",
+          "period": ["2019-03-01", "2019-04-01"],
+          "technologies": ["JavaScript", "Node.js", "Redis", "Docker"]
+        }
+      ]
+    }
+  },
+  {
+    "site": {
+      "company_name": "Task Sheriff",
+      "description": "Fintech creating an AI-based solution to accurately analyze and classify financial transactions personalized to each customer.",
+      "website": "https://www.tasksheriff.com",
+      "location": "Tel Aviv, Israel",
+      "remote": true,
+      "image": {
+        "small": "",
+        "medium": "",
+        "large": ""
+      },
+      "projects": [
+        {
+          "project_name": "Platform API",
+          "period": ["2016-08-15", "2020-05-31"],
+          "technologies": ["PHP", "Laravel", "MySQL", "Redis"]
+        },
+        {
+          "project_name": "Document search",
+          "period": ["2018-02-01", "2018-12-01"],
+          "technologies": ["Elasticsearch"]
+        },
+        {
+          "project_name": "Automated deploys",
+          "period": ["2018-02-01", "2020-05-31"],
+          "technologies": ["AWS ECS", "Docker"]
+        },
+        {
+          "project_name": "Platform front-end",
+          "period": ["2016-08-15", "2016-11-30"],
+          "technologies": ["JavaScript", "jQuery", "Materialize"]
+        },
+        {
+          "project_name": "SPA rebuild",
+          "period": ["2018-12-01", "2020-05-31"],
+          "technologies": ["JavaScript", "React", "Redux"]
+        },
+        {
+          "project_name": "SPA UI redesign",
+          "period": ["2018-12-01", "2020-05-31"],
+          "technologies": ["Tailwind"]
+        }
+      ]
+    }
+  },
+  {
+    "site": {
+      "company_name": "Parley.com.ve",
+      "description": "Sports betting platform.",
+      "website": "https://www.parley.la",
+      "location": "Valencia, Venezuela",
+      "image": {
+        "small": "",
+        "medium": "",
+        "large": ""
+      },
+      "projects": [
+        {
+          "project_name": "Main platform",
+          "period": ["2013-06-03", "2016-08-15"],
+          "technologies": [
+            "PHP",
+            "Laravel",
+            "JavaScript",
+            "jQuery",
+            "Bootstrap",
+            "MySQL"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "site": {
+      "company_name": "Wintech",
+      "description": "Web development agency.",
+      "website": "https://www.wintech.com.ve",
+      "location": "Valencia, Venezuela",
+      "image": {
+        "small": "",
+        "medium": "",
+        "large": ""
+      },
+      "projects": [
+        {
+          "project_name": "SOCRATES",
+          "period": ["2011-07-11", "2013-05-31"],
+          "technologies": [
+            "PHP",
+            "CodeIgniter",
+            "JavaScript",
+            "jQuery",
+            "PostgreSQL"
+          ]
+        }
+      ]
+    }
+  }
+]
